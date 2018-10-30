@@ -1,3 +1,3 @@
-#OpenStreetMap Ghana
+# OpenStreetMap Ghana
 
 OpenStreetMap Ghana placeholder website
