@@ -4,7 +4,7 @@ title:       OpenStreetMap Ghana
 logo:        /images/general/osmghana-logo-nav.png
 description: OpenStreetMap (OSM) Ghana not-for-profit community making maps that saves lives and building capicity
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         https://osmghana.org # The base hostname & protocol for your site
+url:         http://osmghana.org # The base hostname & protocol for your site
 twitter:     https://twitter.com/OSMGhana
 facebook:    https://www.facebook.com/OSMGhana
 twitter_username: OSMGhana
