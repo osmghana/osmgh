@@ -1,0 +1,15 @@
+<div class='c-widget'>
+  <h5 class='c-widget__title'>Recent Stories</h5>
+
+  <!--REF: http://stackoverflow.com/a/40443706/558777-->
+
+  {% for post in site.posts limit:4 %}
+    {% if post.url != page.url %}
+      {% if forloop.index < 4 or found %}
+        {% include sidebar/post-card.html %}
+      {% endif %}
+    {% else %}
+      {% assign found = true %}
+    {% endif %}
+  {% endfor %}
+</div>

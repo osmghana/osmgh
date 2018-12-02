@@ -1,0 +1,47 @@
+<header class='c-header
+               {% if page.layout == 'post' %} c-header--has-cover {% endif %}
+               {% if page.layout == 'page' %} c-header--has-cover {% endif %}'>
+
+  <div class='o-grid'>
+
+    <div class='o-grid__col o-grid__col--3-4-s o-grid__col--1-4-l'>
+      <div class='c-logo'>
+        {% if site.logo %}
+          <a href='{{ site.baseurl }}/'>
+            <img class='c-logo__img' src='{{ site.logo }}' alt='{{ site.title }}'>
+          </a>
+        {% else %}
+          <a class='c-logo__link' href='{{ site.baseurl }}/'>{{ site.title }}</a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class='o-grid__col o-grid__col--1-4-s o-grid__col--3-4-l'>
+      <div class='js-off-canvas-content c-off-canvas-content'>
+        <label class='js-off-canvas-toggle c-off-canvas-toggle c-off-canvas-toggle--close'>
+          <span class='c-off-canvas-toggle__icon'></span>
+        </label>
+
+        <div class='o-grid'>
+          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--3-4-l'>
+            <ul class='c-nav o-plain-list'>
+              {% include navigation.html %}
+            </ul>
+          </div>
+
+          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--1-4-l'>
+            {% include social-nav.html %}
+          </div>
+        </div>
+      </div>
+
+      <label class='js-off-canvas-toggle c-off-canvas-toggle' aria-label='Toggle navigation'>
+        <span class='c-off-canvas-toggle__icon'></span>
+      </label>
+    </div>
+
+  </div>
+
+</header>
+
+{% include search-form.html %}

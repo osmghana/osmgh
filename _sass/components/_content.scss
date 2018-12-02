@@ -1,0 +1,44 @@
+/*------------------------------------*\
+  Components > Content
+\*------------------------------------*/
+
+.c-content {
+  font-family: $font-serif;
+
+  @include mq($until: tablet) {
+    img {
+      position: relative;
+      left: 50%;
+      max-width: 115%;
+      transform: translate(-50%);
+    }
+  }
+
+  a:not(.c-btn) {
+    text-decoration: underline;
+    text-decoration-skip: ink;
+
+    @include attention() {
+      color: $color-brand;
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: $font-sans-serif;
+    font-weight: $font-weight-regular;
+  }
+
+  dd,
+  ol,
+  ul {
+    // Target Safari Only
+    &:not(:root:root) {
+      -webkit-padding-start: half($base-spacing-unit);
+    }
+  }
+}

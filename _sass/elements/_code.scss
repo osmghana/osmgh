@@ -1,0 +1,22 @@
+/*------------------------------------*\
+  Elements > code & pre
+\*------------------------------------*/
+
+pre,
+code {
+  font-family: $font-monospace;
+  background-color: $bg-gray;
+}
+
+pre {
+  overflow: auto;
+  padding: double($base-spacing-unit);
+
+  font-size: $font-size-medium;
+  line-height: $line-height-medium;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+p code { padding: half(quarter($line-height-medium)) quarter($line-height-medium); }

@@ -1,0 +1,37 @@
+{% include base_path %}
+
+<ul class='c-share o-plain-list'>
+  <li class='c-share__item'>
+    <a class='c-share__link'
+       title='Share on Twitter'
+       href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ base_path }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}">
+      <div data-icon='ei-sc-twitter' data-size='s' class='c-share__icon c-share__icon--twitter'></div>
+    </a>
+  </li>
+
+  <li class='c-share__item'>
+    <a class='c-share__link'
+       title='Share on Facebook'
+       href="https://facebook.com/sharer.php?u={{ base_path }}{{ page.url }}">
+      <div data-icon='ei-sc-facebook' data-size='s' class='c-share__icon c-share__icon--facebook'></div>
+    </a>
+  </li>
+
+  <li class='c-share__item'>
+    <a class='c-share__link'
+       title='Share on Google+'
+       href='https://plus.google.com/share?url={{ base_path }}{{ page.url }}'
+       onclick="window.open(this.href, 'google-share','width=580, height=296');return false;">
+      <div data-icon='ei-sc-google-plus' data-size='s' class='c-share__icon'></div>
+    </a>
+  </li>
+
+  <li class='c-share__item'>
+    <a class='c-share__link'
+       title='Share on Pinterest'
+       href='http://pinterest.com/pin/create/button/?url={{ base_path }}{{ page.url }}&media={{ base_path }}{{ page.image }}&description={{ page.title }}'
+       onclick="window.open(this.href, 'google-share', 'width=580, height=296'); return false;">
+      <div data-icon='ei-sc-pinterest' data-size='s' class='c-share__icon'></div>
+    </a>
+  </li>
+</ul>

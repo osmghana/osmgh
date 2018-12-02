@@ -1,0 +1,28 @@
+<ul class='o-plain-list c-social-nav'>
+  {% if site.facebook %}
+  <li class='c-social-nav__item'>
+    <a href='{{ site.facebook }}' aria-label='Facebook' target='_blank' rel='noopener'>
+      <span class='c-social-nav__icon' data-icon='ei-sc-facebook' data-size='s'></span>
+    </a>
+  </li>
+  {% endif %}
+  {% if site.twitter %}
+    <li class='c-social-nav__item'>
+      <a href='{{ site.twitter }}' aria-label='Twitter' target='_blank' rel='noopener'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
+      </a>
+    </li>
+  {% endif %}
+  {% if site.instagram %}
+    <li class='c-social-nav__item'>
+      <a href='{{ site.instagram }}' aria-label='Instagram' target='_blank' rel='noopener'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
+      </a>
+    </li>
+  {% endif %}
+  <li class='c-social-nav__item'>
+    <a class='toggle-search-button js-search-toggle' href='#' aria-label='Search'>
+      <span class='c-social-nav__icon' data-icon='ei-search' data-size='s'></span>
+    </a>
+  </li>
+</ul>
