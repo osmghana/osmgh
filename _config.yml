@@ -8,6 +8,7 @@ url:         http://osmghana.org # The base hostname & protocol for your site
 twitter:     https://twitter.com/OSMGhana
 facebook:    https://www.facebook.com/OSMGhana
 twitter_username: OSMGhana
+email : kasa@osmghana.org
 # instagram:   
 
 markdown:  kramdown
