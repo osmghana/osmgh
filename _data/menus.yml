@@ -1,0 +1,9 @@
+---
+header:
+  - url: /
+    title: Home
+    identifier: home
+  - url: /blog
+    title: Blog
+    identifier: blog
+---

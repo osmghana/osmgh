@@ -1,0 +1,64 @@
+---
+layout: default
+title: Home
+---
+<header>
+	<div class="container">
+		<div class="column">
+			<div>
+				<h1>OpenStreetMap Ghana</h1>
+				<p class="p-highlight editable">OpenStreetMap (OSM) Ghana is a not-for-profit community making maps that saves lives and building capicity in Open Source and GIS.</p>
+				<div class="button">
+					<a href="/about">About Us</a>
+				</div>
+			</div>
+		</div>
+		<div class="column">
+			<img src="/images/osmtrotro.jpg" alt="OSM Trotro">
+		</div>
+	</div>
+</header>
+
+<div class="container">
+	<hr>
+	<h2 class="editable" style="text-align: center;">What we stand for</h2>
+
+	<ul class="thirds">
+		<li>
+			<div class="image">{% include icons/site.html icon="population" %}</div>
+			<h3 class="editable">Commons</h3>
+			<p class="editable">OpenStreetMap's community is diverse, passionate, and growing every day. Our contributors include enthusiast mappers, GIS professionals, engineers running the OSM servers, humanitarians mapping disaster-affected areas, and many more.</p>
+		</li>
+
+		<li>
+			<div class="image">{% include icons/site.html icon="economy" %}</div>
+			<h3 class="editable">Open Source</h3>
+			<p class="editable">We are supporters and users of Free and Open Source Software. In fact OpenStreetMap community globally is built upon the principles of Open Source.</p>
+		</li>
+
+		<li>
+			<div class="image">{% include icons/site.html icon="conditions" %}</div>
+			<h3 class="editable">Open Data</h3>
+			<p class="editable">OpenStreetMap is open data: you are free to use it for any purpose as long as you credit OpenStreetMap and its contributors. If you alter or build upon the data in certain ways, you may distribute the result only under the same license.</p>
+		</li>
+	</ul>
+</div>
+
+ {% include mission.html %}
+
+<div class="container">
+	<hr>
+	<blockquote>
+		<p class="quote editable">OpenStreetMap is the map that saves lives.</p>
+		<div class="attribute">
+			<p class="meta">
+				<span class="image"><img class="editable" src="{{ site.baseurl }}/images/youtube.png" alt="YouTube"></span>
+				<span class="author editable clean"><strong><a href="https://www.youtube.com/watch?v=d6n29CU2-Sg" target="_blank">CNBC International</a></strong></span>
+			</p>
+		</div>
+	</blockquote>
+</div>
+
+ {% include membership.html %}
+
+ {% include latest-news.html %}

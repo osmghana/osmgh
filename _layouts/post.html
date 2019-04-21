@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<section>
+    <div class="container">
+        <div class="post-title">
+            <h2>{{ page.title }}</h2>
+            {% assign author = site.authors[page.author] %}
+            <p class="date" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }} | <span>By {{ author.name }}</span></p>
+        </div>
+        <div class="article">
+            {%if page.image %}
+            <img src="{{ site.baseurl }}{{ page.image }}">
+            {% endif %}
+        </div>
+        <div>
+            {%if page.summary %}
+            <p class="article-summary">{{ page.summary }}</p>
+            {% endif %}
+            <div class="article">{{ content }}</div>
+            <div>
+                <ul class="share-buttons">
+                    <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fosmghana.org&quote=OSM%20Ghana" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="/images/flat_web_icon_set/inverted/Facebook.png" /></a></li>
+                    <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fosmghana.org&text=OSM%20Ghana:%20http%3A%2F%2Fosmghana.org&via=osmghana" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="/images/flat_web_icon_set/inverted/Twitter.png" /></a></li>
+                    <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fosmghana.org&title=OSM%20Ghana" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="/images/flat_web_icon_set/inverted/Reddit.png" /></a></li>
+                    <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fosmghana.org&title=OSM%20Ghana&summary=OpenStreetMap%20Ghana&source=http%3A%2F%2Fosmghana.org" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="/images/flat_web_icon_set/inverted/LinkedIn.png" /></a></li>
+                    <li><a href="mailto:?subject=OSM%20Ghana&body=OpenStreetMap%20Ghana:%20http%3A%2F%2Fosmghana.org" target="_blank" title="Send email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img alt="Send email" src="/images/flat_web_icon_set/inverted/Email.png" /></a></li>
+                </ul>
+            </div>
+            <div id="page-navigation" class="page-navigation">
+                <div class="columns">
+                    <div>
+                        {% if page.next.url %}
+                        <a href="{{ page.next.url | prepend: site.baseurl }}" title="{{ page.next.title | strip_html }}">&laquo; {{page.next.title | strip_html | truncate: 25 }}</a>
+                        {% endif %}
+                    </div>
+                    <div>
+                        {% if page.previous.url %}
+                        <a href="{{ page.previous.url | prepend: site.baseurl }}" title="{{ page.previous.title | strip_html }}">{{page.previous.title | strip_html | truncate: 25 }} &raquo;</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

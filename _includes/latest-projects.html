@@ -1,0 +1,18 @@
+<div class="darker">
+	<div class="container">
+		<h2 class="editable">Updates</h2>
+		<div class="posts">
+			{% for post in site.posts %}
+				<div class="post">
+					<div class="image" style="background-image: url({{ post.featured_image}})"></div>
+					<div class="post-content">
+						<p class="date">{{ post.date | date: '%B %d, %Y' }}</p>
+						<h3>{{ post.title }}</h3>
+
+						{{ post.content }}
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>

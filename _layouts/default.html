@@ -1,0 +1,25 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		<nav>
+			<div class="container">
+				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" height="35"/></a>
+				
+				<div class="button">
+					<a href="/#donate">Donate</a>
+				</div>
+			</div>
+		</nav>
+		<div class="content">
+			{{ content }}
+		</div>
+		
+		{% include footer.html %}
+
+	</body>
+</html>

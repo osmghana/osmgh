@@ -1,0 +1,63 @@
+<footer>
+	<p class="editor-link" style="margin-bottom: 20px;"><a href="cloudcannon:collections/_data/company.yml" class="btn"><strong>&#9998;</strong> Update footer</a></p>
+	<div class="container">
+		<div class="about">
+			<img src="{{ site.baseurl }}/images/osmghana-white.png">
+			<p>{{ site.data.company.mission_statement }}</p>
+		</div>
+
+		<div class="contact footer-black">
+			<address>
+				<a href="https://www.openstreetmap.org/search?query={{ site.data.company.address | url_encode }}">
+					{% include icons/footer.html icon="place" %} {{ site.data.company.address }}
+				</a>
+			</address>
+			<p class="email">
+				<a href="mailto:{{ site.data.company.email }}">
+					{% include icons/footer.html icon="email" %} {{ site.data.company.email }}
+				</a>
+			</p>
+			<p class="phone">
+				<a href="tel:{{ site.data.company.phone | replace: ' ', '-' }}">
+					{% include icons/footer.html icon="phone" %} {{ site.data.company.phone }}
+				</a>
+			</p>
+			<p class="phone">
+				<a href="tel:{{ site.data.company.phone1 | replace: ' ', '-' }}">
+					{% include icons/footer.html icon="phone" %} {{ site.data.company.phone1 }}
+				</a>
+			</p>			
+		</div>
+		<div class="about">
+			<ul>
+				<li><a href="/projects">Projects</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/openstreetmap">OpenStreetMap</a></li>
+			</ul>
+		</div>
+
+		<div class="sharing">
+			<a class="facebook" href="https://www.facebook.com/{{ site.data.company.facebook }}">
+				{% include icons/social-media.html social_icon="facebook" %}
+			</a>
+			<a class="twitter" href="https://twitter.com/{{ site.data.company.twitter }}">
+				{% include icons/social-media.html social_icon="twitter" %}
+			</a>
+		</div>
+	</div>
+</footer>
+<p class="copyright">
+	<a href="https://cloudcannon.com/">
+		Based on Template by CloudCannon
+	</a>
+</p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script type="text/javascript">
+	$('a[href*=\\#]').on('click', function(event){
+		var el = $(this.hash);
+		if (el.length > 0) {
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+		}
+	});
+</script>

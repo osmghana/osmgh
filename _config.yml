@@ -1,0 +1,99 @@
+# ----
+# Site
+
+title: OpenStreetMap Ghana
+url: https://osmghana.org
+baseurl: 
+google_analytics_key: UA-128396587-1
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: OpenStreetMap (OSM) Ghana is a not-for-profit community making maps that saves lives and building capicity in Open Source and GIS.
+author:
+  name:
+  email: 
+  twitter: OSMGhana # twitter username without the @ symbol
+social:
+  name: OpenStreetMap Ghana
+  links:
+    - https://twitter.com/osmghana
+    - https://www.facebook.com/osmghana
+    - https://github.com/osmghana
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+collections:
+  staff_members:
+    _hide_content: true
+    _options:
+      image:
+        width: 250
+        height: 250
+
+permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        content:
+          width: 1880
+          height: 1880
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
+newsletter_action: "//your-mailchimp-action-url.com"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-admin
+  - jekyll-menus
+  - jekyll-paginate
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+authors:
+  enockseth:
+    name: Enock Seth Nyamador
+    display_name: Enock
+    gravatar: 
+    email: enock@osmghana.org
+    web: https://osmghana.orf
+    twitter: enock4seth
+    github: enockseth
+  fidel:
+    name: Fidel Nyameke
+    display_name: Fidel
+    gravatar: 
+    email: fidel@osmghana.org
+    web: https://osmghana.org
+    twitter: essuanlive
+    github: essuanlive 
+
+# -----------
+# CloudCannon
+
+_options:
+  header_background_image:
+    width: 1880
+    height: 1880
+  newsletter_background_image:
+    width: 1880
+    height: 1880
