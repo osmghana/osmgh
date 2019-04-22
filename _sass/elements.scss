@@ -236,26 +236,25 @@ a:hover {
 }
 
 .article ul {
-    padding-left: 28px
+    padding-left: 30px
 }
 
 .article ul li {
     position: relative;
-    list-style: square;
 }
 
 .article ul li:before {
-    content: '—';
+    content: '-';
     position: absolute;
     top: 0px;
-    left: -28px;
+    left: -21px;
     display: inline-block;
     color: $brand-color;
     font-weight: bold;
 }
 
 .article ol {
-    padding-left: 20px
+    padding-left: 50px
 }
 
 .article ol li {

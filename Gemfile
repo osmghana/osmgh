@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.7.2'
+gem 'jekyll', '3.8.5'
 
 group :jekyll_plugins do
-  gem 'jekyll-seo-tag', '2.4.0'
-  gem 'jekyll-sitemap', '1.2.0'
+  gem 'jekyll-feed', "~> 0.6"
 end
 
 gem 'jekyll-paginate'
 gem 'jekyll-admin'
 gem 'jekyll-menus'
-gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
