@@ -3,7 +3,7 @@ layout: page
 title: Membership
 image: '/images/pages/akweteyman-eli.jpg'
 permalink: /membership
-summary: We are glad to have you! OpenStreetMap can be used and contributed to by everyone. You DO NOT need to be a member of OSM Ghana to do make changes or use OpenStreetMap data 
+summary: We are glad to have you! OpenStreetMap can be used and contributed to by everyone. You <b>DO NOT</b> need to be a member of OSM Ghana to make changes or use OpenStreetMap. 
 ---
 Thanks for your interest in joining and supporting OSM Ghana. Members of the organisation are entitled to vote in the affairs of the organisatioin.
 
