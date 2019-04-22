@@ -4,7 +4,7 @@ title: OpenStreetMap
 image: 'images/pages/openstreetmap-accra.jpg'
 permalink: /openstreetmap
 ---
-OpenStreetMap is a map of the world, freely editable, made by people like you. OpenStreetMap allows you to view, edit, and use geographic data around the world.
+[OpenStreetMap](//osm.org) or OSM is a map of the world, freely editable, made by people like you. OpenStreetMap allows you to view, edit, and use geographic data around the world.
 
 ![Mapt the world from scratch](/images/pages/map-world-from-scratch.jpg)
 
