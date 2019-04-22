@@ -7,16 +7,17 @@ tags: [conference]
 image: '/images/posts/sotm-africa-2017-group.jpg'
 summary: Join the State of the Map Africa 2019 train this November in Grand-Bassam, Ivory Coast for 3-Days of networking, learning, sharing and fun by proposing a talk or worshop today! 
 ---
-[State of the Map Africa](//stateofthemap.africa) (SOTM Africa) is an annual conference that celebrates the culture of open mapping, Open data, GIS and its impact across Africa. OpenStreetMap activities and communities in West Africa have been very active from capacity buiding to using open data and tools for resilience same is happening all over the continent. 
+[State of the Map Africa](//stateofthemap.africa) (SOTM Africa) is an annual conference that celebrates the culture of open mapping, Open data, GIS and its impact across Africa. OpenStreetMap activities and communities in West Africa have been very active from capacity buiding to using open data and Free and Open Source Software for resilience, same is happening all over the continent. 
 
 Below is a very short list of OpenStreetMap projects from the continent.
-- Map Kibera
-- Ramani Huria
-- Projet EOF
-- Open Cities Africa,
+- [AccraMobile3](//wiki.openstreetmap.org/wiki/AccraMobile3) ― Mapping *trotro* public transport network of Accra,
+- [Map Kibera](//mapkibera.org/),
+- [Ramani Huria](//ramanihuria.org/),
+- [Projet EOF](https://projeteof.org/blog/),
+- [Open Cities Africa](//opencitiesproject.org/),
 - and more, coupled with the growth of new communities.
 
-SOTM Africa first in Kampala, Uganda in 2017. The second edition will be in Grand-Bassam, Ivory Coast which **233km** by road from the Accra the capital of Ghana from November 22 to 24 2019.
+SOTM Africa first took place in Kampala, Uganda in 2017. The second edition will be in Grand-Bassam, Ivory Coast which is **233km** by road from the Accra the capital of Ghana from November 22 to 24, 2019.
 
 The theme for SOTM Africa 2019 is:
 
@@ -29,7 +30,7 @@ This year’s conference will provide a diverse and fun space for everyone to co
 - Call for papers: **31 May 2019**
 - Call for Scholars: **20 May 2019**
 
-Propose a session today on the any but not lmited to the following:
+**[Propose](//2019.stateofthemap.africa/calls/)** a session today on the any but not lmited to the following:
 - Disater mapping
 - Drones
 - Internet of things
@@ -44,4 +45,4 @@ Propose a session today on the any but not lmited to the following:
 - Humanitarian
 - SDG's
 
-Visit **[2019.stateofthemap.africa/calls](//2019.stateofthemap.africa/calls/)** For more information visit conference website: **[2019.stateofthemap.africa](//2019.stateofthemap.africa)**.
+For more information visit conference website: **[2019.stateofthemap.africa](//2019.stateofthemap.africa)**.
