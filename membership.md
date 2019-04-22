@@ -1,24 +1,18 @@
 ---
 layout: page
 title: Membership
-image: '/images/pages/openstreetmap-accra.jpg'
+image: '/images/pages/akweteyman-eli.jpg'
 permalink: /membership
+summary: We are glad to have you! OpenStreetMap can be used and contributed to by everyone. You DO NOT need to be a member of OSM Ghana to do make changes or use OpenStreetMap data 
 ---
-OpenStreetMap is a map of the world, freely editable, made by people like you. OpenStreetMap allows you to view, edit, and use geographic data around the world.
+Thanks for your interest in joining and supporting OSM Ghana. Members of the organisation are entitled to vote in the affairs of the organisatioin.
 
-![Mapt the world from scratch](/images/pages/map-world-from-scratch.jpg)
+![OSM Ghana](/images/pages/osmghana-community.jpg)
 
-## Local Knowledge
-OpenStreetMap emphasizes local knowledge. Contributors use aerial imagery, GPS devices, and low-tech field maps to verify that OSM is accurate and up to date.
+OpenStreetMap Ghana (OSM Ghana) is an independent non-governmental and not-for-profit organisation focused on growing the OpenStreetMap, Open Data and Open Source community in Ghana through community mapping and capacity building. Using Open Data data to solve problems leaving no one behind. We are a growing network of enthusiasts and profeesional mappers in or with interest in Ghana. All our activities are set up around the global OpenStreetMap (OSM) project and community.
 
-## Community Driven
-OpenStreetMap's community is diverse, passionate, and growing every day. Our contributors include enthusiast mappers, GIS professionals, engineers running the OSM servers, humanitarians mapping disaster-affected areas, and many more. To learn more about the community, see the OpenStreetMap Blog, user diaries, community blogs, and the OSM Foundation website.
+> Further information about membership will be made available here soon. 
 
-## Open Data
-![Open Data stickers](/images/pages/open-data-stickers.jpg)
-
-OpenStreetMap is open data: you are free to use it for any purpose as long as you credit OpenStreetMap and its contributors. If you alter or build upon the data in certain ways, you may distribute the result only under the same licence. See the [Copyright and License page](https://www.openstreetmap.org/copyright) for details.
-
-## Getting Started
-[Welcome Mat](https://welcome.openstreetmap.org/) is a great starting point. 
-![](/images/pages/welcome-mat.jpg)
+Should you need any help getting started with OpenStreetMap checkout [this](/openstreetmap) OR:
+- Email **kasa [at] osmghana [dot] org**
+- Subscribe / Contact the Ghana focused mailing list **[talk-gh [at] openstreetmap [dot] org](https://lists.openstreetmap.org/listinfo/talk-gh)**
