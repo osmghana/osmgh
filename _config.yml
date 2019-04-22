@@ -85,7 +85,15 @@ authors:
     email: fidel@osmghana.org
     web: https://osmghana.org
     twitter: essuanlive
-    github: essuanlive 
+    github: essuanlive
+  guest:
+    name: Guest
+    display_name: Guest
+    gravatar: 
+    email: 
+    web: 
+    twitter: 
+    github:  
 
 # -----------
 # CloudCannon
