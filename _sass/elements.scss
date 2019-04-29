@@ -266,19 +266,13 @@ a:hover {
     height: auto;
     display: block;
     margin: 0 auto;
-    padding-bottom: 5px;
-    -webkit-filter: drop-shadow(5px 7px 5px rgba(169, 169, 169, 1));
-    -moz-filter: drop-shadow(5px 7px 5px rgba(169, 169, 169, 1));
-    -ms-filter: drop-shadow(5px 7px 10px rgba(169, 169, 169, 1));
-    -o-filter: drop-shadow(5px 10px 5px rgba(169, 169, 169, 1));
-    filter: drop-shadow(5px 7px 5px rgba(169, 169, 169, 1));
-
+    box-shadow: 0px 15px 60px 0px rgba(0,0,0,0.2);
 }
 
 .article img+em {
     font-size: 0.82rem;
-    font-weight: normal;
-    color: #68707F;
+    font-weight: lighter;
+    color: #000;
     text-align: center;
     display: block;
 }
@@ -322,11 +316,7 @@ a:hover {
 }
 
 .blog-img {
-    -webkit-filter: drop-shadow(10px 16px 16px rgba(169, 169, 169, 1));
-    -moz-filter: drop-shadow(10px 16px 16px rgba(169, 169, 169, 1));
-    -ms-filter: drop-shadow(10px 16px 16px rgba(169, 169, 169, 1));
-    -o-filter: drop-shadow(10px 16px 16px rgba(169, 169, 169, 1));
-    filter: drop-shadow(10px 16px 16px rgba(169, 169, 169, 1));
+    box-shadow: 0px 15px 60px 0px rgba(0,0,0,0.3);
 }
 
 span {
