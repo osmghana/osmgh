@@ -8,7 +8,7 @@ google_analytics_key: UA-128396587-1
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: OpenStreetMap (OSM) Ghana is a not-for-profit community making maps that saves lives and building capicity in Open Source and GIS.
+description: OpenStreetMap (OSM) Ghana is a not-for-profit community making maps that save lives and building capicity in Open Source and GIS.
 author:
   name:
   email: 
