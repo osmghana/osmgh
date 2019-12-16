@@ -31,12 +31,12 @@ Participants were also treated with some good pizza and drinks.
 
 ## Results ...
 
-  **Number of OSM Contributors**: 11
-  **Number of Map Changes**: 14,367
-  **Total number of Changesets**: 108
+- **Number of OSM Contributors**: 11  
+- **Number of Map Changes**: 14,367  
+- **Total number of Changesets**: 108  
 
-  **Number of created (modified) (deleted) OSM Objects**
-  **Nodes**: 12,166 (9) (1)
-  **Ways**: 2,162 (4) (0)
-  **Highways**: 2 (2)
-  **Buildings**: 2,119
+- **Number of created (modified) (deleted) OSM Objects**  
+- **Nodes**: 12,166 (9) (1)  
+- **Ways**: 2,162 (4) (0)  
+- **Highways**: 2 (2)  
+- **Buildings**: 2,119  
