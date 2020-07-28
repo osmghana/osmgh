@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participating in Open Citis Africa and being part of the Geo community - Awez
+title: Participating in Open Cities Africa and being part of the Geo community - Awez
 featured: true
 author: guest
 tags: [opencities, accra]
