@@ -16,8 +16,8 @@ Remote mapping which happens to be an essential part of this project was already
 
 As a way of familiarizing ourselves with the data collection tools and processes and ensuring an effective and efficient data collection process, we were dispatched in teams to collect sample data around our immediate environment using OpenMapKit and OpenDataKit (buildings, places of interest, building material/levels etc). The errors, comments and all that came up were addressed before the final field deployment.
 
-![](/images/posts/fieldday.jpeg)
-*Debriefing after first field deployment*
+![](/images/posts/field-day.jpg)
+*On the field trying to get directions to our alloted tile*
 
 The last day of the training was a briefing on field strategies, sharing of experiences by previous mappers, caution on what to expect and how to handle issues on the field and finally dividing us into groups for the actual data collection exercise. Amongst the experiences shared, we were cautioned to be wary of welcoming and unwelcoming community members, we were informed on some of the questions to be expecting and how to go about responding to some of these questions amongst others.                                                                                                                            
 
