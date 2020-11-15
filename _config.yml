@@ -8,7 +8,7 @@ google_analytics_key: UA-128396587-1
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: OpenStreetMap (OSM) Ghana is a not-for-profit community making maps that save lives and building capicity in Open Source and GIS.
+description: OpenStreetMap (OSM) Ghana is a not-for-profit community making maps that save lives and building capacity in Open Source and GIS.
 author:
   name:
   email: 
@@ -90,18 +90,26 @@ authors:
     name: Samuel Darkwah Manu
     display_name: Samuel
     gravatar: https://secure.gravatar.com/avatar/66f6e61a0ac1316dd912f349df9bb96c
-    email: manusam14@yahoo.com
+    email: samuel@osmghana.org
     web: http://sammyhawkrad.github.io
     twitter: sammyhawkrad
     github: sammyhawkrad
   guest:
-    name: Guest
-    display_name: Guest
+    name: OSM Ghana
+    display_name: OSMGhana
     gravatar: 
     email: 
     web: 
     twitter: 
     github:  
+  awez:
+    name: Pascalina Awelana Abadum
+    display_name: Awez
+    gravatar: 
+    email: pascalina@osmghana.org
+    web: https://awezgeo.github.io/
+    twitter: AwezGeo
+    github:  AwezGeo
 
 # -----------
 # CloudCannon

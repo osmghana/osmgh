@@ -2,7 +2,7 @@
 layout: post
 title:  Participating in Open Cities Accra and being part of the FOSS community
 featured: true
-author: guest
+author: awez
 tags: [opencities, accra]
 image: '/images/posts/OCA-group-photo.jpg'
 summary: In early September 2019, I, Pascalina Awelana Abadum a.k.a AwezGeo participated in the Open Cities Accra mapping project  both as a field data collector and a data cleaner. The experience from the project has been so overwhelming as it has offered me more than I anticipated.
