@@ -94,11 +94,11 @@ authors:
     web: http://sammyhawkrad.github.io
     twitter: sammyhawkrad
     github: sammyhawkrad
-  guest:
+  osmghana:
     name: OSM Ghana
     display_name: OSMGhana
     gravatar: 
-    email: 
+    email: kasa@osmghana.org 
     web: 
     twitter: 
     github:  
@@ -110,6 +110,23 @@ authors:
     web: https://awezgeo.github.io/
     twitter: AwezGeo
     github:  AwezGeo
+  angela:
+    name: Angela Norvi Yawo Teyvi
+    display_name: Angela
+    gravatar: 
+    email: angela@osmghana.org
+    web: 
+    twitter: teyviangela
+    github:  teyvi
+  guest:
+    name: Guest 
+    display_name: Guest
+    gravatar: 
+    email: 
+    web: 
+    twitter: 
+    github:  
+
 
 # -----------
 # CloudCannon

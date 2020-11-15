@@ -2,7 +2,7 @@
 layout: post
 title: Secondary Cities meet Open Cities Accra
 featured: true
-author: teyvi
+author: angela
 tags: [event, 2cities, opencities, accra, ghana,]
 image: '/images/posts/oca-2cities.jpg'
 ---
