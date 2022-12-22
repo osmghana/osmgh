@@ -10,8 +10,12 @@ Hello! Thank you for your interest in OSM Ghana, you can reach us via the follow
 - kasa [at] osmghana [dot] org
 
 #### Phone 
-- +233 245 756 615
-- +233 208 254 044
+{% if site.data.company.phone %}
+- {{ site.data.company.phone }}
+{% endif %}	
+{% if site.data.company.phone1 %}
+- {{ site.data.company.phone1 }}
+{% endif %}	
 
 #### Social Media
 - [Twitter](https://twitter.com/osmghana)
