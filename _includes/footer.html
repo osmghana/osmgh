@@ -17,16 +17,20 @@
 					{% include icons/footer.html icon="email" %} {{ site.data.company.email }}
 				</a>
 			</p>
+			{% if site.data.company.phone %}
 			<p class="phone">
 				<a href="tel:{{ site.data.company.phone | replace: ' ', '-' }}">
 					{% include icons/footer.html icon="phone" %} {{ site.data.company.phone }}
 				</a>
 			</p>
+			{% endif %}
+			{% if site.data.company.phone1 %}
 			<p class="phone">
 				<a href="tel:{{ site.data.company.phone1 | replace: ' ', '-' }}">
 					{% include icons/footer.html icon="phone" %} {{ site.data.company.phone1 }}
 				</a>
-			</p>			
+			</p>
+			{% endif %}		
 		</div>
 		<div class="sharing">
 			<a class="twitter" href="https://github.com/{{ site.data.company.github }}">
