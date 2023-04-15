@@ -126,14 +126,14 @@ authors:
     web: 
     twitter: thejamesamattey
     github: jamattey 
-  guest:
-    name: Guest 
-    display_name: Guest
+  afi:
+    name: Abigail Afi Gbadago 
+    display_name: Afi
     gravatar: 
-    email: 
+    email: afimaamedufie@gmail.com
     web: 
-    twitter: 
-    github:  
+    twitter: afimaame
+    github:  AfiMaameDufie
 
 
 # -----------
