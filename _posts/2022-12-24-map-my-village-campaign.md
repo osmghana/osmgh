@@ -1,13 +1,13 @@
-----
+---
 layout: post
 title: OSM Ghana Improves Access To Ghanaian Villages With Mapping Party 
-featured: false
+featured: true
 author: James
-image: 'images/posts/map-my-village.jpg'
+image: '/images/posts/map-my-village.jpg'
 tags: mapping party, mapathon
 summary: OSM Ghana organized a mapping party to put villages on the map and round off the year 2022 in style. 
 
-----
+---
 
 OpenStreetMap (OSM) Ghana on Thursday,  23rd December, 2022, organized a mapping event in Accra. This event also served as a mini party for volunteers who have been contributing towards the growth and accuracy of the data added on OpenStreetMap, which is an open collaborative project to create a free, editable map of the world. 
 
