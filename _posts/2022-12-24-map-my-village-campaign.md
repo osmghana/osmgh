@@ -4,7 +4,7 @@ title: OSM Ghana Improves Access To Ghanaian Villages With Mapping Party
 featured: true
 author: James
 image: '/images/posts/map-my-village.jpg'
-tags: mapping party, mapathon
+tags: [mapping party, mapathon]
 summary: OSM Ghana organized a mapping party to put villages on the map and round off the year 2022 in style. 
 
 ---
