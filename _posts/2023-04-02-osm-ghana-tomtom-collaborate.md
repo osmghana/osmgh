@@ -3,7 +3,7 @@ layout: post
 title: OSM Ghana and TomTom Collaborate to Improve Map Data In Ghana
 author: james
 tags: [OSM Ghana, TomTom, MapRoulette]
-6iage: '/images/posts/osm-ghana-tomtom-collab.png'
+image: '/images/posts/osm-ghana-tomtom-collab.png'
 Summary: TomTom compared its map data to OpenStreetMap and Collaborated with the OSM community in Ghana to identify and fix the issues of data quality. 
 ---
 
@@ -16,12 +16,16 @@ The collaboration between OSM Ghana and TomTom is a significant milestone in the
 ## Training for Better Mapping
 
 The first phase of the collaboration involved a training session on MapRoulette, led by TomTom's Hajar El Ouafi, who acts as the Community Partnership Lead For Africa and Middle East. 
-![Hajar El Ouafi, Community Partnership Lead For Africa and Middle East at TomTom]('/images/posts/hajar-tomtom.jpg')
+
+![Hajar El Ouafi, Community Partnership Lead For Africa and Middle East at TomTom](/images/posts/hajar-tomtom.jpg)
 *Hajar led the online training session for MapRoulette*
 
 Held over two sessions, the remote training focused on teaching mappers how to use MapRoulette to identify and solve mapping challenges in OSM, such as missing or inaccurate information about roads, buildings, or landmarks. The training also covered mapping best practices, including how to verify and validate mapping data, and how to work collaboratively with other mappers to improve the quality of the map.
+
+---
 ![Hajar Demonstrated some of MapRoulette's features](/images/posts/tomtom-trsining.jpg)
 *The training was held over two sessions where Hajar took us through some of MapRoulette's features*
+---
 
 The MapRoulette training was a valuable opportunity for mappers in Ghana to learn new skills and techniques, and to connect with other members of the OSM community. It also provided a foundation for the second phase of the collaboration: [the MapRoulette challenge](https://maproulette.org/browse/challenges/38353), which was completed in less than 10 days and allowed members of the community to put into practice what they had learned during the training sessions.
 
