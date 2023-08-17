@@ -4,7 +4,7 @@ title: Empowering HTU YouthMappers: Training and Mapping Party with OpenStreetMa
 featured: true
 author: james
 image: '/images/posts/htu-mapathon.jpeg'
-tags: [mapping party, mapathon]
+tags: [Ho Technical University YouthMappers, mapathon, youthmappers]
 summary: OpenStreetMap Ghana and Ho Technical University Youthmapper Chapter and all chapters in Ghana held a mapping event to commemorate the 66th Independence Day celebration and create an up-to-date base map of buildings and missing roads in Ho on OpenStreetMap. 
 
 
@@ -24,7 +24,7 @@ Amid the excitement, participants took breaks to capture the moment with picture
 
 As the Independence Mapathon came to a close, the statistics spoke for themselves. Over 26,000 buildings had been digitally mapped, and more than 310 kilometers of roads had been added to the digital map. The project achieved a validation rate of over 90% in a short period, reflecting the dedication and precision of the contributors as we did not limit this contribution to the mappers from the Ho chapter by the YouthMapper community in Ghana at large.
 
-/images/posts/ho-mapathon-leaderboard.png
+(/images/posts/ho-mapathon-leaderboard.png)
 
 In the end, the Independence Day  Mapathon was more than just a mapping project; it was a celebration of collaboration, skill-sharing, and community spirit. The OpenStreetMap Ghana team and the HTU Youth Mappers had come together to empower Ho, both digitally and socially. Their efforts not only enriched the map but also enriched the connections and relationships that will continue to shape the city’s future.
 Through this process we identified some mapping challenges from the mappers which we carry with us to better curve and plan for other training in the future.
@@ -38,7 +38,7 @@ Kilometers of Roads - 746 roads created(310.5km)
 Residential Land Use in km2 -  6.08 km²
 Total Land Use in km2 -  11.41 km²
 
-/images/posts/ho-mapathon-stats.png
+(/images/posts/ho-mapathon-stats.png)
 
 
 With the success of the Independence Mapathon and the sense of unity it fostered, Ho stands ready to face the challenges of urbanization with a digital infrastructure that reflects its vibrant culture and landscape, thanks to the dedication of its local mappers and the support of the OpenStreetMap Ghana team.
