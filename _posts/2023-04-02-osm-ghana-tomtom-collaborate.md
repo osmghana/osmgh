@@ -20,7 +20,7 @@ The first phase of the collaboration involved a training session on MapRoulette,
 ![Hajar El Ouafi, Community Partnership Lead For Africa and Middle East at TomTom](/images/posts/hajar-tomtom.jpg)
 *Hajar led the online training session for MapRoulette*
 
-Held over two sessions, the remote training focused on teaching mappers how to use MapRoulette to identify and solve mapping challenges in OSM, such as missing or inaccurate information about roads, buildings, or landmarks. The training also covered mapping best practices, including how to verify and validate mapping data, and how to work collaboratively with other mappers to improve the quality of the map.
+The training was hosted by CKT UTAS YouthMappers in Navrongo and the UBIDS YouthMappers in Wa, over two sessions as a remote training focused on teaching mappers how to use MapRoulette to identify and solve mapping challenges in OSM. This included adding missing or inaccurate information about roads, buildings, or landmarks to Openstreetmap using ID Editor and JOSM. The training also covered mapping best practices, including how to verify and validate mapping data, and how to work collaboratively with other mappers to improve the quality of the map.
 
 ---
 ![Hajar Demonstrated some of MapRoulette's features](/images/posts/tomtom-training.jpg)
