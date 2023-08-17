@@ -4,7 +4,7 @@ title: "Walking, Mapping and History with Mobile Apps: An OpenStreetMap Ghana, U
 featured: true
 author: james
 tags: [OSM Ghana, OSMAnd, StreetComplete, Organic Maps, UG YouthMappers]
-image: /images/posts/walking-mapathon-and-history.png
+image: /images/posts/mapping-wrap.jpg
 Summary: We organised a walking mapathon event with the University of Ghana Youthmappers and the Ghana School of Survey and Mapping YouthMappers to promote OpenStreetMap (OSM) awareness on mobile mapping tools and community engagement.
 ---
 
@@ -45,4 +45,4 @@ We also used the opportunity to network with other OSM enthusiasts and share the
 
 Personally, i learned a lot from this event. Despite the muscle pull i experienced towards the session from all the walking, it gave me an understanding of the knowledge gaps with regards to mobile mapping and this was one of the steps we took to bridge that gap to help volunteers perform mapping on the go. 
 
-| ![](/images/posts/mapping-wrap.jpg) |
+| ![](/images/posts/walking-mapathon-and-history.png  |
