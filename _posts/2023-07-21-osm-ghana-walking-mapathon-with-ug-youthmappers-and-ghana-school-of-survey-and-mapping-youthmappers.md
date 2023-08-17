@@ -45,4 +45,4 @@ We also used the opportunity to network with other OSM enthusiasts and share the
 
 Personally, i learned a lot from this event. Despite the muscle pull i experienced towards the session from all the walking, it gave me an understanding of the knowledge gaps with regards to mobile mapping and this was one of the steps we took to bridge that gap to help volunteers perform mapping on the go. 
 
-| ![](/images/posts/walking-mapathon-and-history.png  |
+| ![](/images/posts/walking-mapathon-and-history.png)  |
