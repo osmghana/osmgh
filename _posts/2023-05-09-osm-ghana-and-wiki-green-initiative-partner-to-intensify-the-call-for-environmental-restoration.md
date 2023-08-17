@@ -21,7 +21,7 @@ By creating maps that show areas of high risk, we can help communities and decis
 
 We believe that the partnership between Wiki Green Initiative and OpenStreetMap Ghana will play a significant role in promoting environmental restoration and building a sustainable future for all. We look forward to working with everyone to achieve this important goal.
 
-You can participate in the conference by joining us on the 19th and 20th of May, at the [Science and Technology Policy Research Institute https://omaps.app/4lX_7dlC2w/Science_and_Technology_Policy_Research_Institute] in Accra as we journey towards a more sustainable future. 
+You can participate in the conference by joining us on the 19th and 20th of May, at the [Science and Technology Policy Research Institute](https://omaps.app/4lX_7dlC2w/Science_and_Technology_Policy_Research_Institute) in Accra as we journey towards a more sustainable future. 
 
 To register, fill out this [form](https://forms.gle/zKqmcwrdW7NMG5cC8) and follow the Wiki Green Initiative and OSM Ghana social media platforms for more updates. The event will have a hybrid format with 50 people in person. 
 
