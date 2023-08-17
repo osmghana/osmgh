@@ -1,11 +1,11 @@
 ---
 layout: post
 title: OpenStreetMap Ghana and Wiki Green Initiative Partner to Intensify the Call for Environmental Restoration
+featured: true
 author: james
 tags: [partnerships, conference, climate, Wikimedia]
 image: /images/posts/wiki-green.jpg
 summary: OpenStreetMap Ghana joins Wiki Green Initiative as it seeks to promote climate change awareness and environmental sustainability through education, collaboration and innovation. The Initiative leverages the opportunities of the digital space to promote climate and environmental education riding on the resource of the Open Movement.
-
 ---
 
 
