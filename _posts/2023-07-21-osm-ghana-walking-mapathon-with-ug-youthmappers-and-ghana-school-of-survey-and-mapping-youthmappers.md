@@ -5,6 +5,7 @@ author: james
 tags: [OSM Ghana, OSMAnd, StreetComplete, Organic Maps, UG YouthMappers]
 image: /images/posts/walking-mapathon-and-history.png
 Summary: We organised a walking mapathon event with the University of Ghana Youthmappers and the Ghana School of Survey and Mapping YouthMappers to promote OpenStreetMap (OSM) awareness on mobile mapping tools and community engagement.
+
 ---
 
 
