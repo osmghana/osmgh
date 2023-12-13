@@ -2,7 +2,7 @@
 layout: post
 title: "OpenStreetMap Ghana Outreach at Badariya Academy"
 featured: true
-author: Isaac Kingsley
+author: isaac
 tags: [OSM Ghana, OpenStreetMap, ID Editor]
 image: /images/posts/badariya_academy.JPG
 Summary: OpenStreetMap Ghana conducted an outreach program at Badariya Academy to introduce OpenStreetMap to the students of Badariya Academy, teach them basic mapping skills and demonstrate how they can contribute to OpenStreetMap. 
