@@ -6,8 +6,6 @@ author: james
 image: '/images/posts/htu-mapathon.jpeg'
 tags: [Ho Technical University YouthMappers, mapathon, youthmappers]
 summary: OpenStreetMap Ghana and Ho Technical University Youthmapper Chapter and all chapters in Ghana held a mapping event to commemorate the 66th Independence Day celebration and create an up-to-date base map of buildings and missing roads in Ho on OpenStreetMap. 
-
-
 ---
 
 In a vibrant city nestled amidst the lush green mountains of Ghana lies Ho; also referred to the oxygen city of Ghana, home to the Ewe tribe and renowned for its breathtaking landscapes and rich cultural heritage. However, like many cities worldwide, Ho has been facing the challenges of rapid urbanization and population growth. To address these issues and put Ho on the digital map, a remarkable initiative named the ‘Independence Mapathon’ was recently carried out; This mapping exercise coincided with the celebration of Ghana’s 66th Independence Day 
